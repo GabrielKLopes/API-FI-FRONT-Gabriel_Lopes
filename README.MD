@@ -17,3 +17,4 @@ Caminhar até a pasta API-FI--FRONT-Gabriel_Lopes e usar o comando npm i para ob
 Após isso, executar 1° o comando `npm run dev` no back-end
 Assim que estiver executando o back-end, utilizar o comando `npm start` no front end
 
+GitHub: https://github.com/GabrielKLopes/API-FI-FRONT-Gabriel_Lopes
